@@ -27,4 +27,4 @@ There are a few failing tests. This is due to the following reasons:
 
 - Implement parallel execution (in batches) when number of tests increase
 - If this was not a demo: check the unit tests and move several tests in this project to that level if not covered yet
-- If this was not a demo: the error codes for failures such as duplicate entries is not defined in the api. Talk to developers/PO and make a decision/update swagger
+- If this was not a demo: the error codes for failures such as duplicate entries is not defined in the API. Needs a conversation with the developers/Product Owner, as a decision needs to be made about the correct expected errors and to update Swagger
