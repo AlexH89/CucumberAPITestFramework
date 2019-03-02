@@ -1,0 +1,15 @@
+package data;
+
+public enum ResponseEnum {
+
+    DEFAULT,
+    EMPTY_BODY,
+    EMPTY_PARAMETERS,
+    EXISTING_NAME,
+    ZERO_ID,
+    NON_REQUIRED,
+    DUPLICATE,
+    INVALID_PARAMETERS,
+    MULTIPLE_INVALID_PARAMETERS,
+    NO_BODY
+}
