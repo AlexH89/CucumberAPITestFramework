@@ -1,6 +1,11 @@
 Cucumber Test Framework for Pet Store API
 =========================================
 
+### Tested with
+
+- Java version: 1.8.0_144
+- Apache Maven version: 3.6.0 
+
 ### How do I run tests?
 
 - To run the tests, execute the following Maven command:
